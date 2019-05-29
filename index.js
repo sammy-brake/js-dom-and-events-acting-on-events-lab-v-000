@@ -5,3 +5,20 @@ function preventRefreshOnSubmit(){
 }
 
 preventRefreshOnSubmit()
+
+function retrieveEmployeeInformation(){
+  return document.querySelector('input').value;
+}
+
+
+function addNewElementAsLi() {
+
+};
+
+function addNewLiOnClick() {
+
+};
+
+function clearEmployeeListOnLinkClick() {
+
+};
