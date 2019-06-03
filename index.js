@@ -22,7 +22,7 @@ function addNewLiOnClick() {
     addNewElementAsLi();
     document.querySelector('input').value = "";
   })
-  
+
 };
 
 function clearEmployeeListOnLinkClick() {
